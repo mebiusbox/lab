@@ -15,7 +15,7 @@
 - [Raytracing vol.3 "Monte Carlo Raytracing" (Japanese)](https://qiita.com/mebiusbox2/items/5a388ef4d5089568a529)
 - [Probability and Statistics for Computer Graphics (Japanese)](https://qiita.com/mebiusbox2/items/1b69ccf5d76b173350e5)
 - [Probability for Computer Graphics #1 (Japanese)](https://qiita.com/mebiusbox2/items/bc1a150b8f5789e5e0d5)
-- [Probability for Computer Graphics #2 (Japanese)]https://qiita.com/mebiusbox2/items/3852324532bd3ca88351)
+- [Probability for Computer Graphics #2 (Japanese)](https://qiita.com/mebiusbox2/items/3852324532bd3ca88351)
 - [A primer of Linear Algebra for Computer Graphics ~Vector~ (Japanese)](https://qiita.com/mebiusbox2/items/172131bf95da172d1371)
 - [A primer of Linear Algebra for Computer Graphics ~Matrix~ (Japanese)](https://qiita.com/mebiusbox2/items/5941801416e8a6993851)
 - [A primer of Linear Algebra for Computer Graphics ~Determinant~ (Japanese)](https://qiita.com/mebiusbox2/items/191dcbead5d927f9b557)
