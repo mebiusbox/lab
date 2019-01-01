@@ -62,7 +62,7 @@ My shader and utility library for three.js.
 - [Displacement Map, Inner Glow, Line Glow](http://mebiusbox.github.io/contents/pixyjs/samples/shader_displacement.html)
 - [UV Projection](http://mebiusbox.github.io/contents/pixyjs/samples/shader_projection.html)
 - [Velvet, Distortion, UV Scroll](http://mebiusbox.github.io/contents/pixyjs/samples/shader_velvet.html)
-- [Scattering, Ocean](http://mebiusbox.github.io/contents/pixyjs/samples/sky.html)
+- [Scattering, Ocean](http://mebiusbox.github.io/contents/pixyjs/samples/shader_sky.html)
 - [PBR (based on UE4, Oren-Nayar)](http://mebiusbox.github.io/contents/pixyjs/samples/shader_standard.html)
 - [Overlay](http://mebiusbox.github.io/contents/pixyjs/samples/shader_overlay.html)
 - [Grass, Shadowed, Instance](http://mebiusbox.github.io/contents/pixyjs/samples/shader_grass.html)

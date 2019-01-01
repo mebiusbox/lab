@@ -62,7 +62,7 @@ Three.js 用の独自シェーダとユーティリティライブラリです�
 - [ディスプレイスメントマップ，インナーグロー，ライングロー](http://mebiusbox.github.io/contents/pixyjs/samples/shader_displacement.html)
 - [投影マッピング](http://mebiusbox.github.io/contents/pixyjs/samples/shader_projection.html)
 - [ベルベット，歪み，ＵＶスクロール](http://mebiusbox.github.io/contents/pixyjs/samples/shader_velvet.html)
-- [大気散乱，海](http://mebiusbox.github.io/contents/pixyjs/samples/sky.html)
+- [大気散乱，海](http://mebiusbox.github.io/contents/pixyjs/samples/shader_sky.html)
 - [物理ベースレンダリング（ＵＥ４ベース，オーレン・ナイヤー）](http://mebiusbox.github.io/contents/pixyjs/samples/shader_standard.html)
 - [オーバーレイ](http://mebiusbox.github.io/contents/pixyjs/samples/shader_overlay.html)
 - [草，影，インスタンス](http://mebiusbox.github.io/contents/pixyjs/samples/shader_grass.html)
