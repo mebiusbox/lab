@@ -88,7 +88,7 @@ The texture generated with EffectTextureMaker that you would like to make availa
 - Make a normal map.
 - Make a animated sprites sheet.
 - You can save as image format supported by the web browser.
-- Support image maximum of 1024 sizes.
+- Support image maximum of 2048 sizes.
 - Support color balance adjustment.
 
 ## rayt
