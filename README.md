@@ -60,6 +60,7 @@ Three.js 用の独自シェーダとユーティリティライブラリです�
 - [ガラス](http://mebiusbox.github.io/contents/pixyjs/samples/shader_glass.html)
 - [フォグ，リムライト，ライトマップ](http://mebiusbox.github.io/contents/pixyjs/samples/shader_fog.html)
 - [ディスプレイスメントマップ，インナーグロー，ライングロー](http://mebiusbox.github.io/contents/pixyjs/samples/shader_displacement.html)
+- [インナーグロー](http://mebiusbox.github.io/contents/pixyjs/samples/shader_innerglow.html)
 - [投影マッピング](http://mebiusbox.github.io/contents/pixyjs/samples/shader_projection.html)
 - [ベルベット，歪み，ＵＶスクロール](http://mebiusbox.github.io/contents/pixyjs/samples/shader_velvet.html)
 - [大気散乱，海](http://mebiusbox.github.io/contents/pixyjs/samples/shader_sky.html)
@@ -70,9 +71,16 @@ Three.js 用の独自シェーダとユーティリティライブラリです�
 - [球状エリアライト（ラフネスハック）](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light_hack.html)
 - [線状エリアライト（ラフネスハック）](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tube_light_hack.html)
 - [エリアライト](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light.html)
-- [投影シャドウ](http://mebiusbox.github.io/contents/pixyjs/samples/shadow_mesh.html)
 - [視差，歪み](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax.html)
+- [視差オクリュージョン](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.html)
 - [ソフト，ＧＰＵパーティクル](http://mebiusbox.github.io/contents/pixyjs/samples/softparticle.html)
+- [ディザリング](http://mebiusbox.github.io/contents/pixyjs/samples/shader_dither.html)
+- [トーンマップ](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tonemap.html)
+- [カラーバランス](http://mebiusbox.github.io/contents/pixyjs/samples/shader_colorbalance.html)
+
+## シェーダ
+
+- [PBR (Lambert, Cook-Torrance, Clear-coat, Anisotropic, Multi-scattering microfacet BRDF)](http://mebiusbox.github.io/contents/pbrwip/)
 
 ## EffectTextureMaker
 

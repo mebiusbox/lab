@@ -60,6 +60,7 @@ My shader and utility library for three.js.
 - [Glass](http://mebiusbox.github.io/contents/pixyjs/samples/shader_glass.html)
 - [Fog, RimLight, Light Map](http://mebiusbox.github.io/contents/pixyjs/samples/shader_fog.html)
 - [Displacement Map, Inner Glow, Line Glow](http://mebiusbox.github.io/contents/pixyjs/samples/shader_displacement.html)
+- [Inner Glow](http://mebiusbox.github.io/contents/pixyjs/samples/shader_innerglow.html)
 - [UV Projection](http://mebiusbox.github.io/contents/pixyjs/samples/shader_projection.html)
 - [Velvet, Distortion, UV Scroll](http://mebiusbox.github.io/contents/pixyjs/samples/shader_velvet.html)
 - [Scattering, Ocean](http://mebiusbox.github.io/contents/pixyjs/samples/shader_sky.html)
@@ -70,9 +71,16 @@ My shader and utility library for three.js.
 - [Sphere Area Light (roughness hack)](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light_hack.html)
 - [Tube Area Light (roughness hack)](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tube_light_hack.html)
 - [Area Light](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light.html)
-- [Projected Shadow](http://mebiusbox.github.io/contents/pixyjs/samples/shadow_mesh.html)
 - [Parallax, Distortion](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax.html)
+- [Parallax occlusion](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.html)
 - [Soft, GPU Particle](http://mebiusbox.github.io/contents/pixyjs/samples/softparticle.html)
+- [Dithering](http://mebiusbox.github.io/contents/pixyjs/samples/shader_dither.html)
+- [Tone Mapping](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tonemap.html)
+- [Color Balance](http://mebiusbox.github.io/contents/pixyjs/samples/shader_colorbalance.html)
+
+## Shader
+
+- [PBR (Lambert, Cook-Torrance, Clear-coat, Anisotropic, Multi-scattering microfacet BRDF)](http://mebiusbox.github.io/contents/pbrwip/)
 
 ## EffectTextureMaker
 
