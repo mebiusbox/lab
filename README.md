@@ -67,7 +67,7 @@ Three.js 用の独自シェーダとユーティリティライブラリです�
 - [物理ベースレンダリング（ＵＥ４ベース，オーレン・ナイヤー）](http://mebiusbox.github.io/contents/pixyjs/samples/shader_standard.html)
 - [オーバーレイ](http://mebiusbox.github.io/contents/pixyjs/samples/shader_overlay.html)
 - [草，影，インスタンス](http://mebiusbox.github.io/contents/pixyjs/samples/shader_grass.html)
-- [ディファード，ブルーム，トーンマッピング](http://mebiusbox.github.io/contents/pixyjs/samples/shader_standard.html)
+- [ディファード，ブルーム，トーンマッピング](http://mebiusbox.github.io/contents/pixyjs/samples/shader_deferred.html)
 - [球状エリアライト（ラフネスハック）](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light_hack.html)
 - [線状エリアライト（ラフネスハック）](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tube_light_hack.html)
 - [エリアライト](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light.html)

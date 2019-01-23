@@ -67,7 +67,7 @@ My shader and utility library for three.js.
 - [PBR (based on UE4, Oren-Nayar)](http://mebiusbox.github.io/contents/pixyjs/samples/shader_standard.html)
 - [Overlay](http://mebiusbox.github.io/contents/pixyjs/samples/shader_overlay.html)
 - [Grass, Shadowed, Instance](http://mebiusbox.github.io/contents/pixyjs/samples/shader_grass.html)
-- [Deferred, Bloom, Tone Mapping](http://mebiusbox.github.io/contents/pixyjs/samples/shader_standard.html)
+- [Deferred, Bloom, Tone Mapping](http://mebiusbox.github.io/contents/pixyjs/samples/shader_deferred.html)
 - [Sphere Area Light (roughness hack)](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light_hack.html)
 - [Tube Area Light (roughness hack)](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tube_light_hack.html)
 - [Area Light](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light.html)
