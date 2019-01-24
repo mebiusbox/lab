@@ -72,7 +72,7 @@ Three.js 用の独自シェーダとユーティリティライブラリです�
 - [線状エリアライト（ラフネスハック）](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tube_light_hack.html)
 - [エリアライト](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light.html)
 - [視差，歪み](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax.html)
-- [視差オクリュージョン](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.html)
+- [視差オクリュージョン，リリーフマッピング](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.html)
 - [ソフト，ＧＰＵパーティクル](http://mebiusbox.github.io/contents/pixyjs/samples/softparticle.html)
 - [ディザリング](http://mebiusbox.github.io/contents/pixyjs/samples/shader_dither.html)
 - [トーンマップ](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tonemap.html)

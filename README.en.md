@@ -72,7 +72,7 @@ My shader and utility library for three.js.
 - [Tube Area Light (roughness hack)](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tube_light_hack.html)
 - [Area Light](http://mebiusbox.github.io/contents/pixyjs/samples/shader_area_light.html)
 - [Parallax, Distortion](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax.html)
-- [Parallax occlusion](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.html)
+- [Parallax occlusion mapping, Relief mapping](http://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.html)
 - [Soft, GPU Particle](http://mebiusbox.github.io/contents/pixyjs/samples/softparticle.html)
 - [Dithering](http://mebiusbox.github.io/contents/pixyjs/samples/shader_dither.html)
 - [Tone Mapping](http://mebiusbox.github.io/contents/pixyjs/samples/shader_tonemap.html)
