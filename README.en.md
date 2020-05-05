@@ -86,7 +86,7 @@ My shader and utility library for three.js.
 
 [EffectTextureMaker](http://mebiusbox.github.io/contents/EffectTextureMaker/) is generating texture tool on the web browser. This tool you can make a lot of vfx textures and you can also make animated sprites sheet. [more](http://mebiusbox.github.io/software/2017/01/06/EffectTextureMaker.html)
 
-The texture generated with EffectTextureMaker that you would like to make available free for commercial and non-commercial use.
+The texture generated with EffectTextureMaker can be freely used for commercial and non-commercial products. The texture is licensed under the <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>.
 
 <img src="./images/EffectTextureMaker.png" width="50%" />
 

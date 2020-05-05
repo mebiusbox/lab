@@ -86,7 +86,7 @@ Three.js 用の独自シェーダとユーティリティライブラリです�
 
 [EffectTextureMaker](http://mebiusbox.github.io/contents/EffectTextureMaker/) は，ブラウザで主にエフェクト用のテクスチャを作成することができるものです．様々な種類のテンプレートを選択して，適当にパラメータを調整するだけで，簡単かつ直感的にテクスチャを作成することができます．また，アニメーションにも対応しており，特定のフレームごとにレンダリングした画像をまとめたスプライトシートも作成することができます．さらに詳しいことは [この記事](http://mebiusbox.github.io/software/2017/01/06/EffectTextureMaker.html) を参照してください．
 
-EffectTextureMaker で作成したテクスチャは商用・非商用問わず，自由に使ってもらって構いません．
+EffectTextureMaker で作成したテクスチャは商用・非商用問わず，自由に使ってもらって構いません．作成したテクスチャは CC0 (Creative Commons Zero) が適用されます．
 
 <img src="./images/EffectTextureMaker.png" width="50%" />
 
