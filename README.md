@@ -1,3 +1,10 @@
+# お知らせ
+
+以下の場所に移動しました．
+
+- https://mebiusbox.github.io/docs/lab/article
+
+
 # 公開しているもの
 
 ## 書いたもの(PDF)

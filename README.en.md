@@ -1,3 +1,10 @@
+# NOTICE
+
+This site has been moved to below:
+
+- https://mebiusbox.github.io/docs/lab/article
+
+
 # Publications
 
 ## Articles (PDF)
